@@ -22,6 +22,8 @@ $ npm run start:dev
 
 ## Reproduction of the bug
 
+The code for reproduction is located in `src/app/module.ts`.
+
 1. Start the server
 2. Go to http://locahost:3000
 3. See the 500 Internal Server Error message and output in the console
